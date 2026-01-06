@@ -29,12 +29,12 @@ resource "azurerm_policy_definition" "sama_audit" {
 resource "azurerm_subscription_policy_assignment" "assign_location" {
   name                 = "assign-sama-geo"
   policy_definition_id = azurerm_policy_definition.sama_location.id
-  subscription_id      = "/subscriptions/b095cc2c-f91c-4927-8847-e9fc836d7bb9"
+  subscription_id      = "/subscriptions/b095cc2c-f91c-4927-8847-xxxxxxxxxxxx"
 }
 
 # Assign Policy B
 resource "azurerm_subscription_policy_assignment" "assign_audit" {
   name                 = "assign-sama-audit"
   policy_definition_id = azurerm_policy_definition.sama_audit.id
-  subscription_id      = "/subscriptions/b095cc2c-f91c-4927-8847-e9fc836d7bb9"
+  subscription_id      = "/subscriptions/b095cc2c-f91c-4927-8847-xxxxxxxxx"
 }
