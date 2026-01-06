@@ -1,0 +1,15 @@
+{
+    "if": {
+        "not": {
+            "field": "location",
+            "in": [
+                "uaenorth",
+                "saudiarabiacentral",
+                "global"
+            ]
+        }
+    },
+    "then": {
+        "effect": "deny"
+    }
+}
