@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
     <img src="https://img.shields.io/badge/Security-SAMA%20Compliant-gold" alt="Security">
-    <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
   </p>
 
   <hr>
@@ -143,7 +142,8 @@
     <code>RequestDisallowedByPolicy</code> error, explicitly referencing the
     SAMA Geo-Fencing policy.
     
-  <img width="2124" height="1095" alt="Screenshot 2026-01-06 100526" src="https://github.com/user-attachments/assets/a20e0fac-3ecc-4990-8a3e-c2ab8ff70f13" />
+  <img width="2124" height="1095" alt="Screenshot 2026-01-06 100526" src="https://github.com/user-attachments/assets/3f3572e4-3b49-4303-81d0-bed036677587" />
+
 
   </p>
 
@@ -176,10 +176,7 @@
 
   <hr>
 
-  <h2>📄 License</h2>
-  <p>
-    This project is licensed under the <strong>MIT License</strong>.
-  </p>
+
 
 </body>
 </html>
